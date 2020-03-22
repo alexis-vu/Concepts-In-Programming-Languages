@@ -1,5 +1,3 @@
-%%%%% PATH
-
 connected(X, Y) :-
    door_between(X, Y).
 connected(X, Y) :-
